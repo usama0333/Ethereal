@@ -234,6 +234,7 @@ hr {
 	width: 35px;
 	background: #333333;
 	border: none;
+
 }
 /*=======================================================
       TITTLE
@@ -396,7 +397,7 @@ header.main-header nav .ownmenu li {
       SUB BANNER
 ========================================================*/
 .sub-banner {
-	background: url(../images/bg/sub-bnr.jpg) center center fixed no-repeat;
+	background: url(../images/bg/sub-bnr-2.jpg) center center fixed no-repeat;
 	background-size: cover;
 	max-height: 380px;
 	min-height: 380px;
